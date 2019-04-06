@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## A SIMPLE TO-DO APP CREATED IN REACT USING JSONPlaceholder API.
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs dependencies that are needed for the project.
 
 ### `npm start`
 
